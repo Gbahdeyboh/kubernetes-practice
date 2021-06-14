@@ -60,4 +60,4 @@ You should get a response that looks as shown below.
 
 WooHoo!! It works! Our application is running on a Kubernetes cluster!!.
 
-NOTE: The K8s mongo deployment uses a persistent volume storage, which means if you quit the whole application, delete the deployments, you would still be able to retrieve the data as it takes up a portion of your physical storage and hence does not die with the pods.
+**NOTE:** The K8s mongo deployment uses a persistent volume storage, which means if you quit the whole application, delete the deployments, you would still be able to retrieve the data as it takes up a portion of your physical storage and hence does not die with the pods.
